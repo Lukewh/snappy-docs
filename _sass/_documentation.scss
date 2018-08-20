@@ -319,7 +319,7 @@ $color-focus: #9d9c9a;
 }
 
 .docs .wrapper {
-  flex: 1;
-  display: flex;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 1038px;
+  width: 100%;
 }

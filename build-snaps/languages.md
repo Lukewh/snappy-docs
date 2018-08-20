@@ -5,8 +5,7 @@ title: Language guides
 
 Create snaps from your preferred programming language.
 
-<div class="eight-col">
-  <ul class="inline-logos equal-height">
+<ul class="inline-logos equal-height">
     <li class="inline-logos__item box">
       <a href="/build-snaps/pre-built"><img class="inline-logos__image" src="{{ site.asset_path }}24be2e8c-adwaita-package.png" alt="Pre-built apps" /><br />Pre-built apps</a>
     </li>
@@ -43,5 +42,4 @@ Create snaps from your preferred programming language.
     <li class="inline-logos__item box">
       <a href="/build-snaps/ros2"><img class="inline-logos__image" src="{{ site.asset_path }}9b32c9a4-3979232.png" alt="ROS2" /><br />ROS 2</a>
     </li>
-  </ul>
-</div>
+</ul>
